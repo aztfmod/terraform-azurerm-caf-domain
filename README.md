@@ -2,7 +2,7 @@
 
 # Creates an Azure DNS zone with domain registration
 
-Creates an a domain with its registration details using:
+Creates a domain name with its registration details using:
 * Azure DNS name
 * Azure App Service Domain
 
